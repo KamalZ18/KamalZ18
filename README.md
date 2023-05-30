@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 - 👋 Hi, I’m @KamalZ18
 - 👀 I’m interested in C++ Object Orientated Software Engineering;
-- 🌱 I’m currently learning C++ OO Technology
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++ OO Technology; and Artificial Intelligence (AI) !
+- 💞️ I’m looking to collaborate on Artificial Intelligence (AI) !
 - 📫 How to reach me ...
